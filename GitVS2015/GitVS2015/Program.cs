@@ -10,6 +10,7 @@ namespace GitVS2015
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Added feature 1.1");
         }
     }
 }
